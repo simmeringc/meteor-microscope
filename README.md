@@ -1,6 +1,6 @@
 # Meteor: Microscope
 This is the sample application for the
-[*Discover Meteor book*](https://www.discovermeteor.com/)
+[*Discover Meteor Tutorial*](https://www.discovermeteor.com/)
 by [Tom Coleman](http://info.meteor.com/blog/author/tom-coleman) and [Sacha Greif](http://sachagreif.com/).
 
 ## Run Microscope locally:
